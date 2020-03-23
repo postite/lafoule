@@ -1,0 +1,15 @@
+{
+   "name": "lafoule",
+   "license": "MIT",
+   
+   "classPath": "src",
+   "contributors": [
+     ""
+   ],
+   "releasenote": "dev",
+   "version": "0.0.10",
+   "url": "",
+   "dependencies": {
+     
+   }
+ }
